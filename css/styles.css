@@ -3,24 +3,27 @@ body{
   padding: 0;
 }
 h1{
-  text-align: center;
+  color: red;
+  text-align: left;
   font-size:100px;
-  font-family: fantasy;
+  font-family: cursive;;
 }
 p{
+  color: blue;
   font-size: 30px;
-  font-family: cursive;
-  text-align: center;
+  font-family: sans-serif;
+  text-align: justify;
 }
 h2{
-  text-align: center;
-  font-family: fantasy;
+  color: red;
+  text-align: left;
+  font-family: cursive;
   font-size: 33px;
 }
 ul{
   list-style-position: inside;
   text-align: center;
-  font-family: cursive;
+  font-family: sans-serif;
   font-size: 25px;
 }
 img{
